@@ -1,3 +1,3 @@
 ## Study-Logger
 
-A Laravel (5.3) project. [UNDER DEVELOPMENT]
+A Laravel (5.3) application. [UNDER DEVELOPMENT]
